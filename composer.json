@@ -1,14 +1,14 @@
 {
-    "name": "jorgegc/phing-compass",
+    "name": "doghouseagency/phing-compass",
     "description": "A collection of Compass targets for Phing.",
     "keywords": [
         "phing",
         "compass"
     ],
-    "homepage": "https://github.com/jorgegc/phing-compass",
+    "homepage": "https://github.com/DoghouseMedia/phing-compass",
     "license": "GPL-2.0+",
     "support": {
-        "issues": "https://github.com/jorgegc/phing-compass",
-        "source": "https://github.com/jorgegc/phing-compass"
+        "issues": "https://github.com/DoghouseMedia/phing-compass",
+        "source": "https://github.com/DoghouseMedia/phing-compass"
     }
 }
